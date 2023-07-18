@@ -116,7 +116,7 @@ if (numbOfPositive > 0) {
 
 //task 10
 
-let newArray = [];
+const newArray = [];
 
 array.forEach((element) => {
     if (element != maxElement) {
